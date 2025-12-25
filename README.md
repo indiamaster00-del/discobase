@@ -1,18 +1,18 @@
-![Discobase Banner](https://i.ibb.co/HppNtvMj/disco.png)
+![DevSTudio Banner](https://cdn.discordapp.com/attachments/1452465489908465860/1452470878519689419/dev_studios.png?ex=694de2eb&is=694c916b&hm=2713e4ff92f75109212474ce37fd319c2d6a955bf9a7bf91f1afcf0c1fa5d11f&)
 
-# 🚀 Discobase
+# 🚀 Dev Studio
 
-**Discobase** is your modern all-in-one toolkit for building **advanced Discord bots** with minimal effort.
+**Dev Studio** is your modern all-in-one toolkit for building **advanced Discord bots** with minimal effort.
 
 > 📌 **Note:** This `discobase` package name is reserved to protect our brand.  
 > To get started, use our official CLI instead:  
-> 👉 **[`npx create-discobase@latest`](https://www.npmjs.com/package/create-discobase)**
+> 👉 **[`Our Website`](https://devstudios.created.app/)**
 
 ---
 
-## ⚡ What is Discobase?
+## ⚡ What is Dev Studio?
 
-**Discobase** is a **lightweight command and event handler** for Discord bots — with a **structured file system**, **dynamic loading**, and an optional **beautiful dashboard** for managing your bot’s stats, settings, and more.
+**Dev Studio** is a **lightweight command and event handler** for Discord bots — with a **structured file system**, **dynamic loading**, and an optional **beautiful dashboard** for managing your bot’s stats, settings, and more.
 
 **Key Highlights:**
 - Supports **latest Discord.js v14**
@@ -33,7 +33,7 @@
 ```bash
 npx create-discobase@latest
 ```
-Official CLI: 👉 [npx create-discobase@latest](https://www.npmjs.com/package/create-discobase)
+Official CLI: 👉 [Our Website](https://devstudios.created.app/)
 
 ## 🚀 How it Works
 # Scaffold your bot project
@@ -47,13 +47,12 @@ Run your bot!
 # 💬 Community & Support
 Got questions? <br>
 Join our growing community for help & ideas!<br>
-👉 [Join our Discord](https://discord.gg/t84eE89Mhk)
+👉 [Join our Discord](https://discord.gg/DMdvUpQUv6)
 
 
-## 🛑 Why does this package exist?
-This `discobase` npm package is a placeholder to secure our brand name.
 
-Use the official CLI instead 👉 [npx create-discobase@latest](https://www.npmjs.com/package/create-discobase)
+Use the official CLI instead 👉 [`Our Website`](https://devstudios.created.app/)
+
 
 
 ⭐ Happy Building!
