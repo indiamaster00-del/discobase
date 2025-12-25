@@ -31,7 +31,7 @@
 ## ✅ Get Started in Seconds
 
 ```bash
-npx create-discobase@latest
+Join Discord & Subscribe MasterDevYT
 ```
 Official CLI: 👉 [Our Website](https://devstudios.created.app/)
 
@@ -56,3 +56,4 @@ Use the official CLI instead 👉 [`Our Website`](https://devstudios.created.app
 
 
 ⭐ Happy Building!
+
